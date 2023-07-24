@@ -1,0 +1,14 @@
+using System;
+
+class DezAnosExec
+{
+    public static void Main(string[] args)
+    {
+    Console.WriteLine("Insira a sua idade: ");
+    int idade = Convert.ToInt32(Console.ReadLine());
+
+    int idadeDezAnos = idade + 10;
+
+    Console.WriteLine("Daqui a 10 anos a sua idade sera " + idadeDezAnos);
+    }
+}

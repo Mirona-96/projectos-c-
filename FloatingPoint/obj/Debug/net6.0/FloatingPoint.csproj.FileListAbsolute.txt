@@ -1,0 +1,15 @@
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\FloatingPoint\bin\Debug\net6.0\FloatingPoint.exe
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\FloatingPoint\bin\Debug\net6.0\FloatingPoint.deps.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\FloatingPoint\bin\Debug\net6.0\FloatingPoint.runtimeconfig.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\FloatingPoint\bin\Debug\net6.0\FloatingPoint.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\FloatingPoint\bin\Debug\net6.0\FloatingPoint.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\FloatingPoint\obj\Debug\net6.0\FloatingPoint.csproj.AssemblyReference.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\FloatingPoint\obj\Debug\net6.0\FloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\FloatingPoint\obj\Debug\net6.0\FloatingPoint.AssemblyInfoInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\FloatingPoint\obj\Debug\net6.0\FloatingPoint.AssemblyInfo.cs
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\FloatingPoint\obj\Debug\net6.0\FloatingPoint.csproj.CoreCompileInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\FloatingPoint\obj\Debug\net6.0\FloatingPoint.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\FloatingPoint\obj\Debug\net6.0\refint\FloatingPoint.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\FloatingPoint\obj\Debug\net6.0\FloatingPoint.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\FloatingPoint\obj\Debug\net6.0\FloatingPoint.genruntimeconfig.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\FloatingPoint\obj\Debug\net6.0\ref\FloatingPoint.dll

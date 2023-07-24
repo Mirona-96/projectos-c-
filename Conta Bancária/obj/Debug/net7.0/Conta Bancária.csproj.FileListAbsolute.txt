@@ -1,0 +1,15 @@
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Conta Bancária\bin\Debug\net7.0\Conta Bancária.exe
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Conta Bancária\bin\Debug\net7.0\Conta Bancária.deps.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Conta Bancária\bin\Debug\net7.0\Conta Bancária.runtimeconfig.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Conta Bancária\bin\Debug\net7.0\Conta Bancária.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Conta Bancária\bin\Debug\net7.0\Conta Bancária.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Conta Bancária\obj\Debug\net7.0\Conta Bancária.csproj.AssemblyReference.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Conta Bancária\obj\Debug\net7.0\Conta Bancária.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Conta Bancária\obj\Debug\net7.0\Conta Bancária.AssemblyInfoInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Conta Bancária\obj\Debug\net7.0\Conta Bancária.AssemblyInfo.cs
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Conta Bancária\obj\Debug\net7.0\Conta Bancária.csproj.CoreCompileInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Conta Bancária\obj\Debug\net7.0\Conta Bancária.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Conta Bancária\obj\Debug\net7.0\refint\Conta Bancária.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Conta Bancária\obj\Debug\net7.0\Conta Bancária.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Conta Bancária\obj\Debug\net7.0\Conta Bancária.genruntimeconfig.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Conta Bancária\obj\Debug\net7.0\ref\Conta Bancária.dll

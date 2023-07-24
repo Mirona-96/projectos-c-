@@ -1,0 +1,15 @@
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\compNum\bin\Debug\net7.0\compNum.exe
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\compNum\bin\Debug\net7.0\compNum.deps.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\compNum\bin\Debug\net7.0\compNum.runtimeconfig.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\compNum\bin\Debug\net7.0\compNum.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\compNum\bin\Debug\net7.0\compNum.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\compNum\obj\Debug\net7.0\compNum.csproj.AssemblyReference.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\compNum\obj\Debug\net7.0\compNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\compNum\obj\Debug\net7.0\compNum.AssemblyInfoInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\compNum\obj\Debug\net7.0\compNum.AssemblyInfo.cs
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\compNum\obj\Debug\net7.0\compNum.csproj.CoreCompileInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\compNum\obj\Debug\net7.0\compNum.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\compNum\obj\Debug\net7.0\refint\compNum.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\compNum\obj\Debug\net7.0\compNum.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\compNum\obj\Debug\net7.0\compNum.genruntimeconfig.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\compNum\obj\Debug\net7.0\ref\compNum.dll
