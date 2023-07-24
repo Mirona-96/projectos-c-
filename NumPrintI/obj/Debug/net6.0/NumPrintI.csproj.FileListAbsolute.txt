@@ -1,0 +1,15 @@
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\NumPrintI\bin\Debug\net6.0\NumPrintI.exe
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\NumPrintI\bin\Debug\net6.0\NumPrintI.deps.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\NumPrintI\bin\Debug\net6.0\NumPrintI.runtimeconfig.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\NumPrintI\bin\Debug\net6.0\NumPrintI.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\NumPrintI\bin\Debug\net6.0\NumPrintI.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\NumPrintI\obj\Debug\net6.0\NumPrintI.csproj.AssemblyReference.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\NumPrintI\obj\Debug\net6.0\NumPrintI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\NumPrintI\obj\Debug\net6.0\NumPrintI.AssemblyInfoInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\NumPrintI\obj\Debug\net6.0\NumPrintI.AssemblyInfo.cs
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\NumPrintI\obj\Debug\net6.0\NumPrintI.csproj.CoreCompileInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\NumPrintI\obj\Debug\net6.0\NumPrintI.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\NumPrintI\obj\Debug\net6.0\refint\NumPrintI.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\NumPrintI\obj\Debug\net6.0\NumPrintI.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\NumPrintI\obj\Debug\net6.0\NumPrintI.genruntimeconfig.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\NumPrintI\obj\Debug\net6.0\ref\NumPrintI.dll

@@ -1,0 +1,15 @@
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\IdadeMaior\obj\Debug\net7.0\IdadeMaior.csproj.AssemblyReference.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\IdadeMaior\obj\Debug\net7.0\IdadeMaior.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\IdadeMaior\obj\Debug\net7.0\IdadeMaior.AssemblyInfoInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\IdadeMaior\obj\Debug\net7.0\IdadeMaior.AssemblyInfo.cs
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\IdadeMaior\obj\Debug\net7.0\IdadeMaior.csproj.CoreCompileInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\IdadeMaior\bin\Debug\net7.0\IdadeMaior.exe
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\IdadeMaior\bin\Debug\net7.0\IdadeMaior.deps.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\IdadeMaior\bin\Debug\net7.0\IdadeMaior.runtimeconfig.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\IdadeMaior\bin\Debug\net7.0\IdadeMaior.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\IdadeMaior\bin\Debug\net7.0\IdadeMaior.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\IdadeMaior\obj\Debug\net7.0\IdadeMaior.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\IdadeMaior\obj\Debug\net7.0\refint\IdadeMaior.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\IdadeMaior\obj\Debug\net7.0\IdadeMaior.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\IdadeMaior\obj\Debug\net7.0\IdadeMaior.genruntimeconfig.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\IdadeMaior\obj\Debug\net7.0\ref\IdadeMaior.dll

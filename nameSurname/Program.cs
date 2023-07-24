@@ -1,0 +1,20 @@
+﻿using System;
+
+namespace nameSurname
+{
+    class nameSurnameExec
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Insira o nomez");
+            string nome = Console.ReadLine();
+
+            Console.WriteLine("Insira o apelido");
+            string apelido = Console.ReadLine();
+
+            Console.WriteLine("Nome completo: " + nome + " " + apelido);
+    
+        }
+    }
+}
+
