@@ -1,0 +1,15 @@
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Aniversariante\bin\Debug\net7.0\Aniversariante.exe
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Aniversariante\bin\Debug\net7.0\Aniversariante.deps.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Aniversariante\bin\Debug\net7.0\Aniversariante.runtimeconfig.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Aniversariante\bin\Debug\net7.0\Aniversariante.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Aniversariante\bin\Debug\net7.0\Aniversariante.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Aniversariante\obj\Debug\net7.0\Aniversariante.csproj.AssemblyReference.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Aniversariante\obj\Debug\net7.0\Aniversariante.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Aniversariante\obj\Debug\net7.0\Aniversariante.AssemblyInfoInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Aniversariante\obj\Debug\net7.0\Aniversariante.AssemblyInfo.cs
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Aniversariante\obj\Debug\net7.0\Aniversariante.csproj.CoreCompileInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Aniversariante\obj\Debug\net7.0\Aniversariante.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Aniversariante\obj\Debug\net7.0\refint\Aniversariante.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Aniversariante\obj\Debug\net7.0\Aniversariante.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Aniversariante\obj\Debug\net7.0\Aniversariante.genruntimeconfig.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\Aniversariante\obj\Debug\net7.0\ref\Aniversariante.dll

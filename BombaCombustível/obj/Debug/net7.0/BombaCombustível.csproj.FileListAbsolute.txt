@@ -1,0 +1,15 @@
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\BombaCombustível\bin\Debug\net7.0\BombaCombustível.exe
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\BombaCombustível\bin\Debug\net7.0\BombaCombustível.deps.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\BombaCombustível\bin\Debug\net7.0\BombaCombustível.runtimeconfig.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\BombaCombustível\bin\Debug\net7.0\BombaCombustível.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\BombaCombustível\bin\Debug\net7.0\BombaCombustível.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\BombaCombustível\obj\Debug\net7.0\BombaCombustível.csproj.AssemblyReference.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\BombaCombustível\obj\Debug\net7.0\BombaCombustível.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\BombaCombustível\obj\Debug\net7.0\BombaCombustível.AssemblyInfoInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\BombaCombustível\obj\Debug\net7.0\BombaCombustível.AssemblyInfo.cs
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\BombaCombustível\obj\Debug\net7.0\BombaCombustível.csproj.CoreCompileInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\BombaCombustível\obj\Debug\net7.0\BombaCombustível.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\BombaCombustível\obj\Debug\net7.0\refint\BombaCombustível.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\BombaCombustível\obj\Debug\net7.0\BombaCombustível.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\BombaCombustível\obj\Debug\net7.0\BombaCombustível.genruntimeconfig.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\BombaCombustível\obj\Debug\net7.0\ref\BombaCombustível.dll
