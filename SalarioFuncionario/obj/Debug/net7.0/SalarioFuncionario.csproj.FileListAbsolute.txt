@@ -1,0 +1,15 @@
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\SalarioFuncionario\bin\Debug\net7.0\SalarioFuncionario.exe
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\SalarioFuncionario\bin\Debug\net7.0\SalarioFuncionario.deps.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\SalarioFuncionario\bin\Debug\net7.0\SalarioFuncionario.runtimeconfig.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\SalarioFuncionario\bin\Debug\net7.0\SalarioFuncionario.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\SalarioFuncionario\bin\Debug\net7.0\SalarioFuncionario.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\SalarioFuncionario\obj\Debug\net7.0\SalarioFuncionario.csproj.AssemblyReference.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\SalarioFuncionario\obj\Debug\net7.0\SalarioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\SalarioFuncionario\obj\Debug\net7.0\SalarioFuncionario.AssemblyInfoInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\SalarioFuncionario\obj\Debug\net7.0\SalarioFuncionario.AssemblyInfo.cs
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\SalarioFuncionario\obj\Debug\net7.0\SalarioFuncionario.csproj.CoreCompileInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\SalarioFuncionario\obj\Debug\net7.0\SalarioFuncionario.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\SalarioFuncionario\obj\Debug\net7.0\refint\SalarioFuncionario.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\SalarioFuncionario\obj\Debug\net7.0\SalarioFuncionario.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\SalarioFuncionario\obj\Debug\net7.0\SalarioFuncionario.genruntimeconfig.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\SalarioFuncionario\obj\Debug\net7.0\ref\SalarioFuncionario.dll

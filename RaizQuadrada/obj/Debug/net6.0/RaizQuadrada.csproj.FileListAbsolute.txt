@@ -1,0 +1,15 @@
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\RaizQuadrada\bin\Debug\net6.0\RaizQuadrada.exe
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\RaizQuadrada\bin\Debug\net6.0\RaizQuadrada.deps.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\RaizQuadrada\bin\Debug\net6.0\RaizQuadrada.runtimeconfig.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\RaizQuadrada\bin\Debug\net6.0\RaizQuadrada.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\RaizQuadrada\bin\Debug\net6.0\RaizQuadrada.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\RaizQuadrada\obj\Debug\net6.0\RaizQuadrada.csproj.AssemblyReference.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\RaizQuadrada\obj\Debug\net6.0\RaizQuadrada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\RaizQuadrada\obj\Debug\net6.0\RaizQuadrada.AssemblyInfoInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\RaizQuadrada\obj\Debug\net6.0\RaizQuadrada.AssemblyInfo.cs
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\RaizQuadrada\obj\Debug\net6.0\RaizQuadrada.csproj.CoreCompileInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\RaizQuadrada\obj\Debug\net6.0\RaizQuadrada.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\RaizQuadrada\obj\Debug\net6.0\refint\RaizQuadrada.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\RaizQuadrada\obj\Debug\net6.0\RaizQuadrada.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\RaizQuadrada\obj\Debug\net6.0\RaizQuadrada.genruntimeconfig.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\RaizQuadrada\obj\Debug\net6.0\ref\RaizQuadrada.dll

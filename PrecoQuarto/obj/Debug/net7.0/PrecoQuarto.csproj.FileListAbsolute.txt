@@ -1,0 +1,15 @@
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrecoQuarto\bin\Debug\net7.0\PrecoQuarto.exe
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrecoQuarto\bin\Debug\net7.0\PrecoQuarto.deps.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrecoQuarto\bin\Debug\net7.0\PrecoQuarto.runtimeconfig.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrecoQuarto\bin\Debug\net7.0\PrecoQuarto.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrecoQuarto\bin\Debug\net7.0\PrecoQuarto.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrecoQuarto\obj\Debug\net7.0\PrecoQuarto.csproj.AssemblyReference.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrecoQuarto\obj\Debug\net7.0\PrecoQuarto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrecoQuarto\obj\Debug\net7.0\PrecoQuarto.AssemblyInfoInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrecoQuarto\obj\Debug\net7.0\PrecoQuarto.AssemblyInfo.cs
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrecoQuarto\obj\Debug\net7.0\PrecoQuarto.csproj.CoreCompileInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrecoQuarto\obj\Debug\net7.0\PrecoQuarto.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrecoQuarto\obj\Debug\net7.0\refint\PrecoQuarto.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrecoQuarto\obj\Debug\net7.0\PrecoQuarto.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrecoQuarto\obj\Debug\net7.0\PrecoQuarto.genruntimeconfig.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrecoQuarto\obj\Debug\net7.0\ref\PrecoQuarto.dll

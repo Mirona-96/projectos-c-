@@ -1,0 +1,15 @@
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrintNumII\bin\Debug\net6.0\PrintNumII.exe
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrintNumII\bin\Debug\net6.0\PrintNumII.deps.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrintNumII\bin\Debug\net6.0\PrintNumII.runtimeconfig.json
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrintNumII\bin\Debug\net6.0\PrintNumII.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrintNumII\bin\Debug\net6.0\PrintNumII.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrintNumII\obj\Debug\net6.0\PrintNumII.csproj.AssemblyReference.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrintNumII\obj\Debug\net6.0\PrintNumII.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrintNumII\obj\Debug\net6.0\PrintNumII.AssemblyInfoInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrintNumII\obj\Debug\net6.0\PrintNumII.AssemblyInfo.cs
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrintNumII\obj\Debug\net6.0\PrintNumII.csproj.CoreCompileInputs.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrintNumII\obj\Debug\net6.0\PrintNumII.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrintNumII\obj\Debug\net6.0\refint\PrintNumII.dll
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrintNumII\obj\Debug\net6.0\PrintNumII.pdb
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrintNumII\obj\Debug\net6.0\PrintNumII.genruntimeconfig.cache
+D:\Docs\Curso de Desenvolvimento de Softwares - USTM\3.º Ano\Programação C#\Projectos\PrintNumII\obj\Debug\net6.0\ref\PrintNumII.dll
